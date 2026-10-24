@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Location pin body -->
+  <path d="M16 2C11.582 2 8 5.582 8 10c0 6.75 8 18 8 18s8-11.25 8-18c0-4.418-3.582-8-8-8z" fill="#1769FF"/>
+  <!-- Search circle overlay -->
+  <circle cx="16" cy="10" r="4" fill="white"/>
+  <circle cx="16" cy="10" r="2.5" fill="#0B1F4D"/>
+  <!-- Search handle -->
+  <line x1="19" y1="13" x2="22" y2="16" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
